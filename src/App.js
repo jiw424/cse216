@@ -8,9 +8,9 @@ function App() {
     <>
     <TodoList />
     <input type='text' />
-    <button> Like Todo</button>
-    <button> Dislike Todo</button>
-    <div> 0 Likes to the message</div>
+    <button> Send</button>
+    <button>Like Message!</button>
+    <div> 0 Total Likes to the message</div>
     </>
   )
 }
